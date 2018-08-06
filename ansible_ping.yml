@@ -1,4 +1,4 @@
 ---
+- hosts:
   tasks:
-  - name: ping
-    ping:
+    - ping:
