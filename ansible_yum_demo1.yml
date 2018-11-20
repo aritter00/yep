@@ -2,5 +2,5 @@
   tasks:
   - name: Install a yum package in Ansible example
     yum:
-      name: nginx
+      name: epel-release
       state: latest
