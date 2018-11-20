@@ -1,4 +1,4 @@
 ---
-- hosts: 34.207.119.219
+- hosts: all
   tasks:
     - ping:
